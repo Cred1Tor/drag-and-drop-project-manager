@@ -1,0 +1,22 @@
+{
+  "name": "drag-and-drop-project-manager",
+  "version": "1.0.0",
+  "description": "Simple drag & drop project manager for the browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "drag & drop",
+    "project manager",
+    "task manager"
+  ],
+  "author": "Aleksandr Saitgalin",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
